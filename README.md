@@ -13,7 +13,7 @@ Human Vision UI provides a simple browser interface to:
 - Send the image payload to a backend biometric service for testing workflows (enroll/verify/identify, etc.)
 - Quickly iterate UI ideas while your backend/API is still changing
 
-## Tech stack
+## Tech stack 
 
 - Angular (UI)
 - TypeScript
