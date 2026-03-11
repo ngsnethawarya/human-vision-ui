@@ -30,7 +30,6 @@ Human Vision UI provides a simple browser interface to:
 
 ### Install
 
-```bash
 git clone https://github.com/ngsnethawarya/human-vision-ui.git
 cd human-vision-ui
 npm install
