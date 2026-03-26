@@ -22,8 +22,6 @@ Human Vision UI provides a simple browser interface to:
 
 ## Getting started
 
-### Prerequisites
-
 - Node.js (LTS recommended)
 - npm (or yarn)
 - Angular CLI (optional, but helpful)
